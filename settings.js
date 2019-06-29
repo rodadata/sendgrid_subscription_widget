@@ -1,8 +1,8 @@
 // Change the url to the domain of your app
 exports.url = 'https://roda-subscribe.herokuapp.com/';
 
-exports.senderEmail = "youremail@somewhere.com";
-exports.senderName = "Name Lastname";
+exports.senderEmail = "xocasgv+roda@gmail.com";
+exports.senderName = "RO(d)A Data Assistant";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list

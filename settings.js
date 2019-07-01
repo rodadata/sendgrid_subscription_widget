@@ -2,7 +2,7 @@
 exports.url = 'https://roda-subscribe.herokuapp.com/';
 
 exports.senderEmail = "xocasgv@gmail.com";
-exports.senderName = "RO(d)A Data Assistant";
+exports.senderName = "Xaquín G.V. subscription to RO(d)A Data Assistant";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list
